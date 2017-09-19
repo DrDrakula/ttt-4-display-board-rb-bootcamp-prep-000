@@ -8,3 +8,4 @@ def display_board(board)
   puts "-----------"
   puts " #{boar[6]} | #{board[7]} | #{board[8]} "
 end
+display_board(board)
